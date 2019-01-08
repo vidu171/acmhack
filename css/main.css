@@ -3715,3 +3715,22 @@ details[open] summary:hover::after {
         transform: scale(1);
     }
 }
+
+.service-img{
+    margin: 1em;
+    width: 18%;
+    height: 18%;
+}
+
+
+.service-custom{
+    display: -ms-grid;
+    align-self: center;
+    margin-left: 25%; 
+
+}
+
+.center{
+    text-align: center;
+    align-items: center;
+}
